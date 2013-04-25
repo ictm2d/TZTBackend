@@ -23,7 +23,7 @@ public class Verbinding {
     // Host, port en dbnaam
     private String host = "localhost";
     private String port = "3307";
-    private String dbNaam = "tzt";
+    private String dbNaam = "dmdevelopm_proj";
     
     // Verbindings URL
     private String url = "jdbc:" + dbType + "://" + host + ":" + port + "/" + dbNaam;
